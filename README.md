@@ -21,7 +21,7 @@ Verify badge :
   ![DR](https://drive.google.com/file/d/1_I_BwkpNphnn731sXbVvuM9YOyXJfrR3/view?usp=sharing/to/img.png)
 - Google Data Analytics Specialization from Coursera  
   https://www.coursera.org/account/accomplishments/specialization/certificate/9WMFQ632V8QQ
-  ![GDA](https://drive.google.com/file/d/1iD-CF-VbjyNgdSupsYLpIt3hYC_9_NBI/view?usp=sharing/to/img.png)
+  ![GDA](https://github.com/wuttikornG/data-projects/blob/main/google-data-analytics-certificate.2.png)
 
 You can find me on LinkedIn :
   https://www.linkedin.com/in/wuttikornpiya
