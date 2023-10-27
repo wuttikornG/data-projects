@@ -16,7 +16,10 @@ There are 10 sprints as follow :
 - Dashboard
 
 Verify badge :
-- Certified Professional Data Analyst from DataRockie  
+- Certified Professional Data Analyst from DataRockie
+
+  <img src="https://github.com/wuttikornG/data-projects/blob/main/Certified%20Professional%20Data%20Analyst%20Digital%20Badge.png" width="200" height="200" />
+
   https://badgr.com/public/assertions/VmcgZRsWRfiTbwKt93t2sg
   <img src="https://github.com/wuttikornG/data-projects/blob/main/Certified%20Professional%20Data%20Analyst%20Digital%20Badge.png" width="200" height="200" />
   
