@@ -20,14 +20,14 @@ Verify badge :
 
   <img src="https://github.com/wuttikornG/data-projects/blob/main/Certified%20Professional%20Data%20Analyst%20Digital%20Badge.png" width="200" height="200" />
 
-  https://badgr.com/public/assertions/VmcgZRsWRfiTbwKt93t2sg
+  Credential URL : https://badgr.com/public/assertions/VmcgZRsWRfiTbwKt93t2sg
 
   
 - Google Data Analytics Specialization from Coursera
 
   <img src="https://github.com/wuttikornG/data-projects/blob/main/google-data-analytics-certificate.2.png" width="200" height="200" />
   
-  https://www.coursera.org/account/accomplishments/specialization/certificate/9WMFQ632V8QQ
+  Credential URL : https://www.coursera.org/account/accomplishments/specialization/certificate/9WMFQ632V8QQ
 
 You can find me on LinkedIn :
   https://www.linkedin.com/in/wuttikornpiya
