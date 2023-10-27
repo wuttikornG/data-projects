@@ -21,6 +21,7 @@ Verify badge :
 
 - Google Data Analytics Specialization from Coursera  
   https://www.coursera.org/account/accomplishments/specialization/certificate/9WMFQ632V8QQ
+  ![GDA](https://www.credly.com/badges/e863ffd9-b8b6-4034-91c4-642ee41570b5)
 
 You can find me on LinkedIn :
   https://www.linkedin.com/in/wuttikornpiya
