@@ -18,10 +18,10 @@ There are 10 sprints as follow :
 Verify badge :
 - Certified Professional Data Analyst from DataRockie  
   https://badgr.com/public/assertions/VmcgZRsWRfiTbwKt93t2sg
-  ![DR](https://drive.google.com/file/d/1_I_BwkpNphnn731sXbVvuM9YOyXJfrR3/view?usp=sharing)
+  ![DR](https://drive.google.com/file/d/1_I_BwkpNphnn731sXbVvuM9YOyXJfrR3/view?usp=sharing/to/img.png)
 - Google Data Analytics Specialization from Coursera  
   https://www.coursera.org/account/accomplishments/specialization/certificate/9WMFQ632V8QQ
-  ![GDA](https://drive.google.com/file/d/1iD-CF-VbjyNgdSupsYLpIt3hYC_9_NBI/view?usp=sharing)
+  ![GDA](https://drive.google.com/file/d/1iD-CF-VbjyNgdSupsYLpIt3hYC_9_NBI/view?usp=sharing/to/img.png)
 
 You can find me on LinkedIn :
   https://www.linkedin.com/in/wuttikornpiya
