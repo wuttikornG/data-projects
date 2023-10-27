@@ -23,10 +23,11 @@ Verify badge :
   https://badgr.com/public/assertions/VmcgZRsWRfiTbwKt93t2sg
 
   
-- Google Data Analytics Specialization from Coursera  
-  https://www.coursera.org/account/accomplishments/specialization/certificate/9WMFQ632V8QQ
+- Google Data Analytics Specialization from Coursera
+
   <img src="https://github.com/wuttikornG/data-projects/blob/main/google-data-analytics-certificate.2.png" width="200" height="200" />
   
+  https://www.coursera.org/account/accomplishments/specialization/certificate/9WMFQ632V8QQ
 
 You can find me on LinkedIn :
   https://www.linkedin.com/in/wuttikornpiya
